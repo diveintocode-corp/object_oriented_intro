@@ -11,7 +11,7 @@ class SoccerManExecute
     nakata.practice
     nakata.acceleration
     nakata.get_status
-	end
+  end
 
   def excute_gon
     gon = SoccerManGon.new
