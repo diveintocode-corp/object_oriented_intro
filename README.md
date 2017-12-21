@@ -2,5 +2,9 @@
 Encapsulation, inheritance, polymorphism
 
 # Rubyプログラムの実行
+```
 cd encapsulation/ruby
+```
+```
 ruby main.rb
+```
