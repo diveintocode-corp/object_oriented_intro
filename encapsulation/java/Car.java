@@ -16,7 +16,7 @@ public class Car {
 	}
 
 	public void stop(){
-		speed_meter--;
+		speed_meter = 0;
 	}
 
 	public void refuel(){
