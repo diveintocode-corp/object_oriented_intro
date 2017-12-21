@@ -1,8 +1,8 @@
 class SoccerManNakata < SoccerMan
 
-	def initialize
+  def initialize
     super
-		self.set_skill(100)
+    self.set_skill(100)
   end
 
 end
