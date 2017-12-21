@@ -8,7 +8,7 @@ require './execute'
 require './soccer_man_execute'
 
 if __FILE__ == $0
-	exe = Execute.new
+  exe = Execute.new
 
   # スーパーカー
   puts "-- スーパーカー -- "
