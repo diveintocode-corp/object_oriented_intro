@@ -1,7 +1,7 @@
 class Truck < Car
 
   def initialize
-		super
+    super
     @carrier = 0
   end
 
@@ -16,6 +16,6 @@ class Truck < Car
 
   def load
     @carrier += 1
-	end
+  end
 
 end
