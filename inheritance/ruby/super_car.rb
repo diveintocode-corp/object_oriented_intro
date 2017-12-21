@@ -1,6 +1,6 @@
 class SuperCar < Car
 
-	def run
+  def run
     super
     super
   end
